@@ -1,0 +1,20 @@
+{
+  "name": "bankcard-parser",
+  "version": "0.0.1",
+  "description": "[挖坑，待填]银行号码解析器，根据号码判断所属银行",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.sepc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haobingwang/bankcard-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haobingwang/bankcard-parser/issues"
+  },
+  "homepage": "https://github.com/haobingwang/bankcard-parser#readme"
+}
